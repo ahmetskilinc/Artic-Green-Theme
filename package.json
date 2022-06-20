@@ -1,0 +1,20 @@
+{
+	"name": "artic-green-theme",
+	"version": "1.0.1",
+	"description": "An arctic green theme for vs code",
+	"publisher": "ahmetskilinc",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Arctic Green Dark",
+				"uiTheme": "vs-dark",
+				"path": "./theme.json"
+			}
+		]
+	},
+	"author": "Ahmet Kilinc",
+	"license": "ISC"
+}
